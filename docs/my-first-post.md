@@ -1,12 +1,12 @@
-\---
+---
 
 title: ovolcano的学习笔记
 
 date: 2026-07-31
 
-\---
+---
 
-\## GROMACS命令
+## GROMACS命令
 
 由pdb生成gro：
 
