@@ -18,3 +18,5 @@ gmx genconf -f output.gro -nbox 2 2 3 -o output\_large.gro
 
 
 
+top文件中\[ molecules ]中各个组分的顺序必须和gro文件一致
+
